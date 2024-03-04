@@ -15,6 +15,10 @@ Something I use for working or just daily use.
 - [iTerm2](https://iterm2.com/): Terminal emulator for macOS.
 - [GitHub CLI](https://cli.github.com/): GitHub command-line tool.
 
+## Next.js Components Library
+
+- [Aceternity UI](https://ui.aceternity.com/)
+
 ## Domain
 
 - [Name.com](https://www.name.com/): Manage domain names.
