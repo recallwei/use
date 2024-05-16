@@ -14,8 +14,9 @@ Something I use for working or just daily use.
 - [Oh My Zsh](https://ohmyz.sh/): Framework for managing your Zsh configuration.
 - [iTerm2](https://iterm2.com/): Terminal emulator for macOS.
 - [GitHub CLI](https://cli.github.com/): GitHub command-line tool.
-- [AWS Code Whisper](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html): CLI tool for auto completing.
+- [Amazon Q](https://aws.amazon.com/cn/q/): CLI tool for auto completing.
 - [p10k](https://github.com/romkatv/powerlevel10k): A Zsh theme.
+- [Dracula Theme](https://draculatheme.com/): Dracula theme.
 
 ## Domain
 
